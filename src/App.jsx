@@ -2,7 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import './App.css'
 
-//my portfolio will be awesome
+//my portfolio will be awesome ever
 function App() {
   const [count, setCount] = useState(0)
 
